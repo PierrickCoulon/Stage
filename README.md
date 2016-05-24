@@ -4,7 +4,7 @@ J'ai mis quelques projets que j'ai réalisé durant l'année :
 
 Allum1 : Jeu des allumettes vs un IA
 
-Minishhell : reproduire le comportement d'un shell basique
+Minishell : reproduire le comportement d'un shell basique
 
 Minitalk : Interagir avec 2 binaire (utilisation du PID)
 
@@ -21,4 +21,5 @@ NB : Nous travaillons encore sur ce projet il n'est pas fini.
 J'ai aussi réalisé dans l'année de l'admin. système (crée des VM arch, debian,...).
 
 pierrick.coulon@epitech.eu
+
 coulonpierrick@gmail.com
