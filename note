@@ -2,9 +2,10 @@ Allum1 : Jeu vs un IA
 Minishhell : reproduire le comportement d'un shell basqique
 Minitalk : Interagir avec 2 binaire (utilisation du PID)
 dante : Resolution de Labyrinthe
-
+Getnextline : Fonction qui permet de récuperer ligne par ligne un fichier lu.
 n4s : Crée une IA capable de prendre des décisions et de conduire elle même une voiture a l'aide d'un lidar. (capture de données en continus)
- Pour n4s : Je compile avec le makefile et cela copie mon binaire dans n4s_package, ensuite il faut lancer ./vrep.sh puis le binaire ./pipes.sh qui va se charger
+      	   Pour n4s : Je compile avec le makefile et cela copie mon binaire dans n4s_package, ensuite il faut lancer ./vrep.sh puis le binaire ./pipes.sh qui va se charger
       	    d'associer vrep et notre binaire.
 Nous travaillons encore sur ce projet il n'est pas fini.
+
 J'ai aussi réalisé dans l'année de l'admin. système (crée des VM arch, debian,...)/
